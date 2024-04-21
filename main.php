@@ -7,7 +7,8 @@ session_start();
 
 
 <!DOCTYPE html>
-<html>
+<html style="overflow-x: hidden;
+  overflow-y: hidden;height:300%;">
 
 <head>
   <meta charset="utf-8">
