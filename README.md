@@ -12,6 +12,7 @@ Login/Signup features, but data stored under such accounts is not stored in data
 5. Go to xammp -> htdocs, make a new folder (this is where all your php & html-related pages will go).
 6. Open the files in this repo with a text editor. I used sublime text, but there are many other options.
 7. To run, use "localhost/(your folder name)/(whatever page)"
+8. Make sure create your own file directory, and change the paths of the video and images if necessary.
 
 If this process is flawed or you are having difficulty setting it up, use this step-by-step tutorial to make sure the database is set up properly: [https://www.youtube.com/watch?v=WYufSGgaCZ8](url)
 
