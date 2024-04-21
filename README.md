@@ -15,5 +15,3 @@ Login/Signup features, but data stored under such accounts is not stored in data
 8. Make sure create your own file directory, and change the paths of the video and images if necessary.
 
 If this process is flawed or you are having difficulty setting it up, use this step-by-step tutorial to make sure the database is set up properly: [https://www.youtube.com/watch?v=WYufSGgaCZ8](url)
-
-Also, try putting an accent over the "E" in "Efficace", it's a double meaning: it means effective in french (hence the accent) and is a play on political efficacy. 
